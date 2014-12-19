@@ -14,7 +14,7 @@ Provide recommendations on:
 * Legal names vs. preferred names
 * Titles
 * Letter casing
-* Input of gender
+* Input of gender or pronouns
 * Display of gender
 * Gender vs. sex
 * Internationalization & localization
